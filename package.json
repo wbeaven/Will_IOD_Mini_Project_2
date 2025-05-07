@@ -1,0 +1,27 @@
+{
+  "name": "will_iod_mini_project_1",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "nodemon ./src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wbeaven/Will_IOD_Mini_Project_1.git"
+  },
+  "author": "Will",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wbeaven/Will_IOD_Mini_Project_1/issues"
+  },
+  "homepage": "https://github.com/wbeaven/Will_IOD_Mini_Project_1#readme",
+  "dependencies": {
+    "chart.js": "^4.4.8",
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
