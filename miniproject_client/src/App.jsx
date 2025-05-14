@@ -14,9 +14,9 @@ function App() {
 
       <div className="flex column center">
         {/* Go to chart button */}
-        <div className="section">
-          <button id="myButton" onClick={addDayFunction}>Chart</button>
-        </div>
+        {/* <div className="section">
+          <button id="myButton" onClick={}>Chart</button>
+        </div> */}
 
         {/* Simulate day button */}
         <div className="section">
